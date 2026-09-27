@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Aleksandar Radovanović
 
-<!--
-**ARadovanovic94/ARadovanovic94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior QA Engineer based in Belgrade, Serbia.
 
-Here are some ideas to get you started:
+After a professional handball career, I moved into software QA. My current focus is building a strong foundation in manual testing and test design, followed by API testing, SQL and test automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## QA Focus
+
+- Manual testing: functional, smoke, regression, retesting and exploratory testing
+- Test design: positive, negative and edge cases, Equivalence Partitioning and Boundary Value Analysis
+- Bug reporting: clear reproduction steps, expected vs actual results, severity and priority
+- API testing: Postman and SoapUI
+- Database testing: SQL and MySQL
+- Automation practice: Python, Selenium WebDriver and pytest
+- Tools: Jira, TestRail, Git/GitHub, JMeter and Cucumber
+
+## Currently Working On
+
+- Building practical QA projects based on real testing workflows
+- Preparing for the ISTQB CTFL exam
+- Strengthening API and SQL testing skills
+- Gradually expanding into test automation
+
+## Portfolio
+
+[QA Portfolio Website](https://aradovanovic.bolt.host)
