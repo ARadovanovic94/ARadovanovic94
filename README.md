@@ -14,6 +14,39 @@ After a professional handball career, I moved into software QA. My current focus
 - Automation practice: Python, Selenium WebDriver and pytest
 - Tools: Jira, TestRail, Git/GitHub, JMeter and Cucumber
 
+## QA Practice Projects
+
+I use these projects to practice writing test cases, running tests and recording results.
+
+### 1. Manual QA Practice
+
+[View project](https://github.com/ARadovanovic94/manual_qa_practice)
+
+- 12 executed manual test cases
+- Positive and negative login scenarios, plus dynamic element checks
+- Steps, expected results and actual results documented
+- Results: 12 PASS / 0 FAIL
+
+### 2. API Testing Practice
+
+[View project](https://github.com/ARadovanovic94/api_testing_practice)
+
+- 10 manually executed API test cases in Postman
+- GET, POST, PUT, PATCH and DELETE requests
+- Positive and negative scenarios, with HTTP status code and JSON response checks
+- Results: 9 PASS / 1 unexpected response (recorded as FAIL)
+
+The unexpected response is documented as a test deviation, not a confirmed software defect.
+
+### 3. SQL Testing Practice
+
+[View project](https://github.com/ARadovanovic94/sql_testing_practice)
+
+- 10 executed SQL checks using MySQL Workbench and the Sakila database
+- SELECT, WHERE, JOIN and GROUP BY
+- Data filtering and validation
+- Results: 10 PASS / 0 FAIL
+
 ## Currently Working On
 
 - Building practical QA projects based on real testing workflows
