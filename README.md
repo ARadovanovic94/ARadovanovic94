@@ -22,10 +22,10 @@ I use these projects to practice writing test cases, running tests and recording
 
 [View project](https://github.com/ARadovanovic94/manual_qa_practice)
 
-- 12 executed manual test cases
+- 13 executed manual test cases
 - Positive and negative login scenarios, plus dynamic element checks
 - Steps, expected results and actual results documented
-- Results: 12 PASS / 0 FAIL
+- Results: 13 PASS / 0 FAIL
 
 ### 2. API Testing Practice
 
