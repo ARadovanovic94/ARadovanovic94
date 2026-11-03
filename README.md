@@ -31,10 +31,10 @@ I use these projects to practice writing test cases, running tests and recording
 
 [View project](https://github.com/ARadovanovic94/api_testing_practice)
 
-- 10 manually executed API test cases in Postman
+- 11 manually executed API test cases in Postman
 - GET, POST, PUT, PATCH and DELETE requests
 - Positive and negative scenarios, with HTTP status code and JSON response checks
-- Results: 9 PASS / 1 unexpected response (recorded as FAIL)
+- Results: 10 PASS / 1 unexpected response (recorded as FAIL)
 
 The unexpected response is documented as a test deviation, not a confirmed software defect.
 
