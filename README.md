@@ -42,10 +42,10 @@ The unexpected response is documented as a test deviation, not a confirmed softw
 
 [View project](https://github.com/ARadovanovic94/sql_testing_practice)
 
-- 10 executed SQL checks using MySQL Workbench and the Sakila database
+- 11 executed SQL checks using MySQL Workbench and the Sakila database
 - SELECT, WHERE, JOIN and GROUP BY
 - Data filtering and validation
-- Results: 10 PASS / 0 FAIL
+- Results: 11 PASS / 0 FAIL
 
 ## Currently Working On
 
